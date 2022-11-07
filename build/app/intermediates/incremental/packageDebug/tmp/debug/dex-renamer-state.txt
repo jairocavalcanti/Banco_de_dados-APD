@@ -1,0 +1,4 @@
+#Sun Nov 06 19:46:10 BRT 2022
+base.0=C\:\\Users\\Jairo\\Desktop\\projetoAPD-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
